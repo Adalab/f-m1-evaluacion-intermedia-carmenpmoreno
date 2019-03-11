@@ -26,11 +26,13 @@ h1 {
 .menu-text {
     color: #4a4a4a;
     font-size: 16px;
+    display: inline;
 }
 
 li {
     list-style: none;
     display: inline;
+
 }
 
 .logo {
