@@ -1,0 +1,24 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: #3CDBC0;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+.menu {
+    position: fixed;
+    background-color: #fff;
+}
+.menu-text {
+    color: #4a4a4a;
+}
+
+li {
+    list-style: none;
+}
+
+.main-section {
+    padding-top: 400px;
+}
