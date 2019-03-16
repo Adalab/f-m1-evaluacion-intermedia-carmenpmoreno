@@ -7,7 +7,6 @@ body {
     min-height: 100vh;
     margin: 0;
     padding: 0;
-
 }
 
 
@@ -36,7 +35,7 @@ body {
 
 }
 
-li {
+.menu-list {
     list-style: none;
     display: inline;
 }
@@ -49,16 +48,19 @@ li {
 
 
 .main-section {
-    padding-top: 200px;
+    height: 100vh;
     display: flex;
     justify-content: center;
+    align-items: center;
     font-size: 30px;
     color: #FFFFFF;
 }
 
 .main-text {
+    font-size: 30px;
     max-width: 175px;
     text-align: center;
+
 
 }
 
@@ -78,6 +80,8 @@ li {
 
     .main-text {
         max-width: 300px;
+        font-size: 40px;
+
 }
 
 .logo {
